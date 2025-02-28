@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 😄 I'm an IT student
-- 🌱 I’m currently learning <b>Python</b>
+- 🌱 I’m currently learning <b>Python</b> and <b>Java</b>
 - 🔭 I’m currently working on <a href="https://github.com/KateAnneP/Obesity_Prediction_ProjectSI">Obesity_Prediction_ProjectSI</a>
 - 📫 How to reach me: katpieczonka@gmail.com
